@@ -1,3 +1,7 @@
+# Invalid hashicorp constraint for valid `.terraform-version`
+
+https://github.com/renovatebot/renovate/discussions/22077
+
 # Expected
 
 No error, parses `0.14` as `0.14.11`.
